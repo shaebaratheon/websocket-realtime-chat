@@ -1,0 +1,14 @@
+{
+  "name": "websocket-realtime-chat",
+  "version": "1.0.0",
+  "description": "Distributed real-time WebSocket messaging and presence cluster in TypeScript",
+  "main": "dist/index.js",
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/ws": "^8.5.10",
+    "typescript": "^5.0.0"
+  }
+}
